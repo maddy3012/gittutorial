@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i am a programmer
+=======
+i am a devops guy
+>>>>>>> c02cef08aa66573f9c1393b82f983688d1b3c9ed
